@@ -1,16 +1,14 @@
-# GitHub Actions in 30 Minutes #
-
-This is the sample code repository for the talk, "GitHub Actions in 30 mins - live coding"
+# 30분만에 만드는 깃헙 액션 &ndash; 라이브 코딩 #
 
 
-## Sample Repository ##
+## 샘플 코드 리포지토리 ##
 
-* Session #1: [Send Telegram Action](https://github.com/say8425/send-telegram-action)
-* Session #2: [GitHub Docker Action Sample](https://github.com/justinyoo/github-actions-docker-sample)
+* 세션 #1: [Send Telegram Action](https://github.com/say8425/send-telegram-action)
+* 세션 #2: [GitHub Docker Action Sample](https://github.com/justinyoo/github-actions-docker-sample)
 
 
-## Slide Decks ##
+## 발표자료 ##
 
-* Keynote: [Download](decks/github-actions-live-keynote.pdf)
-* Session #1 by 펭귄: N/A
-* Session #2 by 쟈스틴: [Download](decks/github-actions-live-docker.pdf)
+* 키노트: [Download](decks/github-actions-live-keynote.pdf)
+* 세션 #1 by 펭귄: N/A
+* 세션 #2 by 쟈스틴: [Download](decks/github-actions-live-docker.pdf)
